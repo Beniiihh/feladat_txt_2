@@ -1,3 +1,5 @@
 superman
 batman
 thor
+pokember 
+joker
